@@ -126,6 +126,11 @@ hash = "c9904662a505fe912678cc82a80a5cb4e96867a01fad791495b511e64732aa5f"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "e8fba4f1d9fa4d7ffd369b6b4583b858db24411df006899c2592576708a03480"
+metafile = true
+
+[[files]]
 file = "mods/flywheel.pw.toml"
 hash = "fbb0a9e7d2930e91c49c7ea9ac56aacd4475169c0b50b463245c2a2b2eb24c11"
 metafile = true
@@ -213,6 +218,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "94d853ec0def62adb527aee046f2c4a32127076c2995ea5c29553534544e1c35"
+metafile = true
+
+[[files]]
+file = "mods/lightspeed.pw.toml"
+hash = "12925ade9a4f43f6fdfa4bf477f17fbb386c9d4a069c7683b702ab40853f7343"
 metafile = true
 
 [[files]]

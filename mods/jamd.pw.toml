@@ -1,0 +1,13 @@
+name = "JAMD"
+filename = "JAMD-1.7.0-build.25+mc1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fb72f988cc0dffcd6a74f8a9f4f9947e9812ea8c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3807283
+project-id = 422981

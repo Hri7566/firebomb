@@ -1,12 +1,12 @@
 name = "Firebomb"
 author = "Khorne"
-version = "1.1.1"
+version = "1.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3bb321723c8f7365ad586f2a346a6508b2aed9bcafe120e58c5d54c805f2d3ce"
+hash = "3665d9e0ee35fd27425621951307046e82d7ea75aec317cba1679336a9251792"
 
 [versions]
 forge = "40.2.2"

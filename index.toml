@@ -336,6 +336,11 @@ hash = "88f8a91fd486f6a4aadf94fe15598ac21dd0c65e8eebc04e8572aa275c505cbf"
 metafile = true
 
 [[files]]
+file = "mods/mo-guns.pw.toml"
+hash = "875f76c552f01dc1acaa36d02f358c917aeee7a7b3d9687887058a1d71d5dd7e"
+metafile = true
+
+[[files]]
 file = "mods/more-immersive-wires.pw.toml"
 hash = "b208348d3d160392e83f146c902a3a9f2a5f7dee06ac237b7119e11d3ec65e56"
 metafile = true
@@ -343,6 +348,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "496ee18fbcb9e7e2c629048a9f40bf642df42cc0287691d98932b9d311cede46"
+metafile = true
+
+[[files]]
+file = "mods/mrcrayfish-furniture-mod.pw.toml"
+hash = "eab360710dfebe9b6f7f5c260acfc8275663db2245c85a1e436a78d8e7531dd5"
 metafile = true
 
 [[files]]

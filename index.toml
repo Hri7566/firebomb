@@ -410,11 +410,6 @@ hash = "a0d7a8bdf2e15f6b8917146bee46449ae7a8f2ff34d650ae6cd6571ac1077349"
 metafile = true
 
 [[files]]
-file = "mods/plasmo-voice.pw.toml"
-hash = "3f4c04ee9c02b635007750e70cf66e3a693142ea20b1cb25be79eb90b7d32abe"
-metafile = true
-
-[[files]]
 file = "mods/pneumaticcraft-repressurized.pw.toml"
 hash = "755368e13ec9a63ec82a97e2cee8a0805444412ca6a254d1d69e959d32a51ad5"
 metafile = true

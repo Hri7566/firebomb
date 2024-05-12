@@ -1,13 +1,13 @@
 name = "Oh The Biomes You'll Go"
-filename = "Oh_The_Biomes_You'll_Go-forge-1.18.2-1.4.7.jar"
+filename = "Oh_The_Biomes_You'll_Go-forge-1.18.2-1.5.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/uE1WpIAk/versions/EU5OONA2/Oh_The_Biomes_You%27ll_Go-forge-1.18.2-1.4.7.jar"
+url = "https://cdn.modrinth.com/data/uE1WpIAk/versions/4Bo5c6or/Oh_The_Biomes_You%27ll_Go-forge-1.18.2-1.5.1.jar"
 hash-format = "sha1"
-hash = "4f751bd772232b45bec088103889138852efaa5b"
+hash = "d46c0601b97f964b0bf9d7bb2cc605fd526530b3"
 
 [update]
 [update.modrinth]
 mod-id = "uE1WpIAk"
-version = "EU5OONA2"
+version = "4Bo5c6or"

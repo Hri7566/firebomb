@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/builders-delight-forge.pw.toml"
-hash = "d5d0bfbbc114269d46e24d396ef4209c978ed745ed7874b020430c05233cc061"
+hash = "db368ef749191b4d30efee23f113efbd7fa1f289a2aed91760ce02c2b019639d"
 metafile = true
 
 [[files]]

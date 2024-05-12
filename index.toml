@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "6e2519df1a684e9cd3c39e4e7f5d726c0e3cac2dc384e0f7b52b37b9d72a4fb0"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "d2eda0ea3575fb11d212d9c9f5e56d33ef48c03aaa32f5741bca824673624bc4"
 metafile = true
@@ -72,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/builders-delight-forge.pw.toml"
-hash = "514f42f10ec0ca169cc4a600470959357427c4d37bbd7f5422c7b2ba70f8f175"
+hash = "d5d0bfbbc114269d46e24d396ef4209c978ed745ed7874b020430c05233cc061"
 metafile = true
 
 [[files]]

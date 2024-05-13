@@ -46,7 +46,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "6d3d349f02c4ffd6a8252db88e6168f9037601660a73fd282c4203a199e9997e"
+hash = "5438581aa8967b7ce1fd496f02e058b27855ccedef2f5b3dbb197ad41ae3931c"
 metafile = true
 
 [[files]]
@@ -250,6 +250,11 @@ hash = "94d853ec0def62adb527aee046f2c4a32127076c2995ea5c29553534544e1c35"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "0e82bb571251b2274b6fa354d7416e46a52936fae1a36a13558fa3c555bcd266"
+metafile = true
+
+[[files]]
 file = "mods/light-overlay.pw.toml"
 hash = "016c3bd999966ba94a21728e252bcbc2015ed4729596211f0cbf626e532b4583"
 metafile = true
@@ -442,6 +447,11 @@ metafile = true
 [[files]]
 file = "mods/refined-storage.pw.toml"
 hash = "ef29b4bf32fa3c12cceed621dbeb7a04481b90d86883c327af33b87719cd9b50"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "614a7bd300f1eac1aa5693b2b331d3dab75bd2f1e5989ab14f8d463c3b58d19c"
 metafile = true
 
 [[files]]

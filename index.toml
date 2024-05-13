@@ -110,8 +110,8 @@ hash = "d647c96a37237cca3668cff8e0467a411e25eb783a9ce7c7d05a414a98da986c"
 metafile = true
 
 [[files]]
-file = "mods/create-chunkloading.pw.toml"
-hash = "99c9c05bcfaf416d6e807b30d0821de667b283e9c43562bdf4ea384121d77a7d"
+file = "mods/create-power-loader.pw.toml"
+hash = "680e1621c912f2516c4e0d2115bc8b9cbad544d8f2242c1e26f251a3a050c05c"
 metafile = true
 
 [[files]]

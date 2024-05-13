@@ -160,11 +160,6 @@ hash = "e8fba4f1d9fa4d7ffd369b6b4583b858db24411df006899c2592576708a03480"
 metafile = true
 
 [[files]]
-file = "mods/flywheel.pw.toml"
-hash = "fbb0a9e7d2930e91c49c7ea9ac56aacd4475169c0b50b463245c2a2b2eb24c11"
-metafile = true
-
-[[files]]
 file = "mods/forgeendertech.pw.toml"
 hash = "a27a11227254429afc7d349e0edf8d874a1896f5887f8380f4e36a0f96679160"
 metafile = true

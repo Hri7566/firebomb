@@ -556,5 +556,5 @@ metafile = true
 
 [[files]]
 file = "mods/zerocore.pw.toml"
-hash = "a8c458904a3fe5dc37db3067bf5cc0d3e2c4b3b423388d352f5a1b74664731dc"
+hash = "65eaeb63f2ee56259ab9f5b18a65c1f818ae3c1db4e4a8a902cdd6e135dddb15"
 metafile = true

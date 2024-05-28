@@ -390,6 +390,11 @@ hash = "93a9397e7f2b976eed930d34e9fd76dfdf69fe47f70530e2ac9c536b58d23623"
 metafile = true
 
 [[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "7bf46bc22d536c759188d5851ad1beacd2c08e3cd4de4c4a0bae250040a96899"
+metafile = true
+
+[[files]]
 file = "mods/ore-excavation.pw.toml"
 hash = "e25f4063442a566ba062182efbbde695b64a0c51e616781daf92bbf92f9111e7"
 metafile = true

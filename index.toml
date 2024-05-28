@@ -235,11 +235,6 @@ hash = "de79e8615a4d06d01b575fa4ef255fe92e20a308c94769cb3d20612c79c69a9a"
 metafile = true
 
 [[files]]
-file = "mods/journeymap.pw.toml"
-hash = "3bf7708ec3e6027a27675c963b1c4aef49d35eb81a438262981285a549a23345"
-metafile = true
-
-[[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "f47fe58a84e9b5fc7ed703b7eca10c5818243bfb57f11b023f3693c49be48686"
 metafile = true

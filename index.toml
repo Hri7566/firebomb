@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "47b2fe5984528205b00c724cb76d4c5a1e016ebd45b65e895d9b9ee7bff66c31"
+hash = "d91a4caf2b7556c5daeefde6d1ee95fb4299c9e0befa33162a200ad27cad4d55"
 metafile = true
 
 [[files]]
@@ -466,7 +466,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-discord-rich-presence.pw.toml"
-hash = "05c7d5b21fc91ae540cad63bae4855facedf4d5579b6dcdbfdccc105795fb971"
+hash = "862b48454f6cd459349b0f6e53cba86cb2f8ee3263cba9d4fcf1841624b3ef15"
 metafile = true
 
 [[files]]

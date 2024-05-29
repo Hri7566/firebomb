@@ -150,6 +150,11 @@ hash = "b39b757e64ba7c3d8cdbffaf3286c35a3c6e32399f0dddbeaef20a6defb635f5"
 metafile = true
 
 [[files]]
+file = "mods/dynmapforge.pw.toml"
+hash = "61027c60b1122ba9c396cfd906cfc959b8918384898ba750941f57d706aab89f"
+metafile = true
+
+[[files]]
 file = "mods/extreme-reactors.pw.toml"
 hash = "dfa3966adaca7bfe30863de31764e369a1e08aceabb97cf0e9e837542ec234ff"
 metafile = true

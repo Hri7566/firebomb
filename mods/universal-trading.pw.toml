@@ -1,0 +1,13 @@
+name = "Universal Trading"
+filename = "UniversalTrading_Forge_1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WQTl2F9Y/versions/42NGk3Hh/UniversalTrading_Forge_1.18.2.jar"
+hash-format = "sha1"
+hash = "351fe2f31c5481a66727bdc806181341ee6ef4c6"
+
+[update]
+[update.modrinth]
+mod-id = "WQTl2F9Y"
+version = "42NGk3Hh"

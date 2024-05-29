@@ -6,7 +6,7 @@ hash = "6e2519df1a684e9cd3c39e4e7f5d726c0e3cac2dc384e0f7b52b37b9d72a4fb0"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "7acdc17938ba71739398b38a1a36e5283c063f0cce5bcd05bd8686c0fcad7062"
+hash = "235952f1842357609c404420d136af12100e635d62456dddfcdea96a0855b3de"
 metafile = true
 
 [[files]]
@@ -62,6 +62,11 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "6d6c323e050a88e30615d1cc6b61152f4221d42f8f1084be790538a5af37b27f"
+metafile = true
+
+[[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "ce98fd909957a9af75217647fac55add03d948210be4a362be2bb5627aaa1871"
 metafile = true
 
 [[files]]
@@ -147,6 +152,11 @@ metafile = true
 [[files]]
 file = "mods/extreme-reactors.pw.toml"
 hash = "dfa3966adaca7bfe30863de31764e369a1e08aceabb97cf0e9e837542ec234ff"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "a1aefaee42fb9385f18208f8497685012f66f1c3b5437b42e2c42869bcbbb8ad"
 metafile = true
 
 [[files]]
@@ -237,6 +247,11 @@ metafile = true
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "f47fe58a84e9b5fc7ed703b7eca10c5818243bfb57f11b023f3693c49be48686"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "fa7634d905dd53799f9b42d57f7954a9b04df7a9f9e95760b310f2861ac630de"
 metafile = true
 
 [[files]]
@@ -342,6 +357,11 @@ metafile = true
 [[files]]
 file = "mods/mekanism.pw.toml"
 hash = "88f8a91fd486f6a4aadf94fe15598ac21dd0c65e8eebc04e8572aa275c505cbf"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "7033adf20d46f30cb8963c2b999fb29a1d7600a5abf1ef22baf1f78cf7d728c3"
 metafile = true
 
 [[files]]
@@ -547,6 +567,11 @@ metafile = true
 [[files]]
 file = "mods/titanium.pw.toml"
 hash = "4e6c0604ce9ffd2c090612430005f0db9ee3e8c0d47830bfa912783ffb641ae6"
+metafile = true
+
+[[files]]
+file = "mods/universal-trading.pw.toml"
+hash = "9caa008e42bca70419ccebd3f5f0f75c7f057f06027c1266b521704c1988bc66"
 metafile = true
 
 [[files]]

@@ -526,7 +526,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrablender.pw.toml"
-hash = "dc241d2dbc9f38d9ab71ecb899b871c3aef37871ae9f6d83440498cfa0a0829d"
+hash = "db37da45b0c49a80ac2ac85ab7bfc012388e93fd534fd93ddd14c79caa932c69"
 metafile = true
 
 [[files]]

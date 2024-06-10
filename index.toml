@@ -85,8 +85,23 @@ hash = "941e331267d7150fb63f8d9a58a897dbf6d878a98cec1ca506de896de2edaaf4"
 metafile = true
 
 [[files]]
+file = "mods/building-wands.pw.toml"
+hash = "4cc7db17d4da18b8da6da83df80d9137e8cd23401929bf0240d577fc9c0dd7e2"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "97ace81938796fa3c952d0abb47e14e66c0a49e7b5b25b4b2a71c2a40ffac719"
+metafile = true
+
+[[files]]
+file = "mods/cc-vs.pw.toml"
+hash = "dc01f64e9dbbfa361d1ac8015b3fbb135b93f6fce45325c73b51b8f26f778917"
+metafile = true
+
+[[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "909959f17c8ffe8e3726e2618420ace7b43da5a7affa6adabd119c8b35f161c2"
 metafile = true
 
 [[files]]
@@ -115,8 +130,33 @@ hash = "d647c96a37237cca3668cff8e0467a411e25eb783a9ce7c7d05a414a98da986c"
 metafile = true
 
 [[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "5f447b9bad7431b7da5220d2ac4ce5c90899b08315f5b7c8b30546b61f7736b1"
+metafile = true
+
+[[files]]
+file = "mods/create-broken-bad.pw.toml"
+hash = "8a41fd7ab11345aa7b212cba9861f003a76fa8a40d580bac6f414c4788f4fdd4"
+metafile = true
+
+[[files]]
+file = "mods/create-clockwork.pw.toml"
+hash = "c97a1ab158e936d542622c84ec1611b354450307b50f3033fccc9c1ec95e78ac"
+metafile = true
+
+[[files]]
+file = "mods/create-diesel-generators.pw.toml"
+hash = "3e676ce9e5f19c85d3204035589b4fb95b6ace67b6985432882f3d12d313b7c6"
+metafile = true
+
+[[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "9ff96c126fc79e0cde4aaaf12f4b170fc2cc507a71c9c98f25bf816c28f79be3"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "9ed53127278e6256ec173d6b93587f1423976ac5f02cc77a6010f30f751bb8eb"
 metafile = true
 
 [[files]]
@@ -152,6 +192,11 @@ metafile = true
 [[files]]
 file = "mods/dynmapforge.pw.toml"
 hash = "61027c60b1122ba9c396cfd906cfc959b8918384898ba750941f57d706aab89f"
+metafile = true
+
+[[files]]
+file = "mods/eureka.pw.toml"
+hash = "35492aafe029952f90a742cac9b3a8d9ebe7c7a92cac372481ca83a459a52230"
 metafile = true
 
 [[files]]
@@ -370,6 +415,11 @@ hash = "7033adf20d46f30cb8963c2b999fb29a1d7600a5abf1ef22baf1f78cf7d728c3"
 metafile = true
 
 [[files]]
+file = "mods/mimi.pw.toml"
+hash = "89b186cfbf24340629681a7e2c83138b78732b210126d50bd983fa4e04e074b0"
+metafile = true
+
+[[files]]
 file = "mods/mo-guns.pw.toml"
 hash = "875f76c552f01dc1acaa36d02f358c917aeee7a7b3d9687887058a1d71d5dd7e"
 metafile = true
@@ -525,6 +575,11 @@ hash = "24d18ad40fdda45c3b7158d57f1d33e20947e16605d4f09070af9d4cb5b8a37d"
 metafile = true
 
 [[files]]
+file = "mods/team-capes.pw.toml"
+hash = "03315b736c03883ffcfe73a521bb66b1b2e257f9763f35c00b63389f42b418e6"
+metafile = true
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "db37da45b0c49a80ac2ac85ab7bfc012388e93fd534fd93ddd14c79caa932c69"
 metafile = true
@@ -580,8 +635,18 @@ hash = "fc024a674cefca4278c8763ed5089b82ce0a335dcfdff5dd68b9a13cbd611b16"
 metafile = true
 
 [[files]]
+file = "mods/trackwork-1-18-2.pw.toml"
+hash = "a27bf7f986efe45080f3faffe706d07f853cedc8cac589a82cab87c82a8acf06"
+metafile = true
+
+[[files]]
 file = "mods/universal-trading.pw.toml"
 hash = "9caa008e42bca70419ccebd3f5f0f75c7f057f06027c1266b521704c1988bc66"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "94ca0e67e203e1d55585e1c9cc5d4b99f7f11eeb96678ad3b7c30fe7b7e33a65"
 metafile = true
 
 [[files]]

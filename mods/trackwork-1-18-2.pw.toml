@@ -1,0 +1,7 @@
+name = "trackwork-1.18.2"
+filename = "trackwork-1.18.2-0.0.1h1-alpha.jar"
+
+[download]
+url = "https://fs.hri7566.info/trackwork-1.18.2-0.0.1h1-alpha.jar"
+hash-format = "sha256"
+hash = "78adb4514840d53b429f5ef23f9d2b3af2662ca8571f59862db09da8352317c4"

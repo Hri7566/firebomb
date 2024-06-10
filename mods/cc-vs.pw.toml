@@ -1,0 +1,13 @@
+name = "CC: VS"
+filename = "cc_vs-1.18.2-forge-0.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bvgy8HrZ/versions/pm7hegQS/cc_vs-1.18.2-forge-0.1.0.jar"
+hash-format = "sha1"
+hash = "ae764637ee85f6a50cfaa9601a8687e9f5c7be3c"
+
+[update]
+[update.modrinth]
+mod-id = "bvgy8HrZ"
+version = "pm7hegQS"

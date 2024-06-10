@@ -1,0 +1,13 @@
+name = "CC:C Bridge"
+filename = "cccbridge-mc1.18.2-forge-v1.5.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fXt291FO/versions/ajroWplh/cccbridge-mc1.18.2-forge-v1.5.1.jar"
+hash-format = "sha1"
+hash = "bfa9a749d5bed79b5e87625f57d3fd144f7d816f"
+
+[update]
+[update.modrinth]
+mod-id = "fXt291FO"
+version = "ajroWplh"

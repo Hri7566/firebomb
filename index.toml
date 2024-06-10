@@ -415,6 +415,11 @@ hash = "7033adf20d46f30cb8963c2b999fb29a1d7600a5abf1ef22baf1f78cf7d728c3"
 metafile = true
 
 [[files]]
+file = "mods/mimi.pw.toml"
+hash = "89b186cfbf24340629681a7e2c83138b78732b210126d50bd983fa4e04e074b0"
+metafile = true
+
+[[files]]
 file = "mods/mo-guns.pw.toml"
 hash = "875f76c552f01dc1acaa36d02f358c917aeee7a7b3d9687887058a1d71d5dd7e"
 metafile = true
@@ -567,6 +572,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "24d18ad40fdda45c3b7158d57f1d33e20947e16605d4f09070af9d4cb5b8a37d"
+metafile = true
+
+[[files]]
+file = "mods/team-capes.pw.toml"
+hash = "03315b736c03883ffcfe73a521bb66b1b2e257f9763f35c00b63389f42b418e6"
 metafile = true
 
 [[files]]

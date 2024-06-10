@@ -625,6 +625,11 @@ hash = "fc024a674cefca4278c8763ed5089b82ce0a335dcfdff5dd68b9a13cbd611b16"
 metafile = true
 
 [[files]]
+file = "mods/trackwork-1-18-2.pw.toml"
+hash = "a27bf7f986efe45080f3faffe706d07f853cedc8cac589a82cab87c82a8acf06"
+metafile = true
+
+[[files]]
 file = "mods/universal-trading.pw.toml"
 hash = "9caa008e42bca70419ccebd3f5f0f75c7f057f06027c1266b521704c1988bc66"
 metafile = true

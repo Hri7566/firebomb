@@ -85,8 +85,23 @@ hash = "941e331267d7150fb63f8d9a58a897dbf6d878a98cec1ca506de896de2edaaf4"
 metafile = true
 
 [[files]]
+file = "mods/building-wands.pw.toml"
+hash = "4cc7db17d4da18b8da6da83df80d9137e8cd23401929bf0240d577fc9c0dd7e2"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "97ace81938796fa3c952d0abb47e14e66c0a49e7b5b25b4b2a71c2a40ffac719"
+metafile = true
+
+[[files]]
+file = "mods/cc-vs.pw.toml"
+hash = "dc01f64e9dbbfa361d1ac8015b3fbb135b93f6fce45325c73b51b8f26f778917"
+metafile = true
+
+[[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "909959f17c8ffe8e3726e2618420ace7b43da5a7affa6adabd119c8b35f161c2"
 metafile = true
 
 [[files]]
@@ -115,8 +130,33 @@ hash = "d647c96a37237cca3668cff8e0467a411e25eb783a9ce7c7d05a414a98da986c"
 metafile = true
 
 [[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "5f447b9bad7431b7da5220d2ac4ce5c90899b08315f5b7c8b30546b61f7736b1"
+metafile = true
+
+[[files]]
+file = "mods/create-broken-bad.pw.toml"
+hash = "8a41fd7ab11345aa7b212cba9861f003a76fa8a40d580bac6f414c4788f4fdd4"
+metafile = true
+
+[[files]]
+file = "mods/create-clockwork.pw.toml"
+hash = "c97a1ab158e936d542622c84ec1611b354450307b50f3033fccc9c1ec95e78ac"
+metafile = true
+
+[[files]]
+file = "mods/create-diesel-generators.pw.toml"
+hash = "3e676ce9e5f19c85d3204035589b4fb95b6ace67b6985432882f3d12d313b7c6"
+metafile = true
+
+[[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "9ff96c126fc79e0cde4aaaf12f4b170fc2cc507a71c9c98f25bf816c28f79be3"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "9ed53127278e6256ec173d6b93587f1423976ac5f02cc77a6010f30f751bb8eb"
 metafile = true
 
 [[files]]
@@ -152,6 +192,11 @@ metafile = true
 [[files]]
 file = "mods/dynmapforge.pw.toml"
 hash = "61027c60b1122ba9c396cfd906cfc959b8918384898ba750941f57d706aab89f"
+metafile = true
+
+[[files]]
+file = "mods/eureka.pw.toml"
+hash = "35492aafe029952f90a742cac9b3a8d9ebe7c7a92cac372481ca83a459a52230"
 metafile = true
 
 [[files]]
@@ -582,6 +627,11 @@ metafile = true
 [[files]]
 file = "mods/universal-trading.pw.toml"
 hash = "9caa008e42bca70419ccebd3f5f0f75c7f057f06027c1266b521704c1988bc66"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "94ca0e67e203e1d55585e1c9cc5d4b99f7f11eeb96678ad3b7c30fe7b7e33a65"
 metafile = true
 
 [[files]]

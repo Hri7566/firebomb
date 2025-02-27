@@ -1,0 +1,13 @@
+name = "Controlling"
+filename = "Controlling-forge-1.18.2-9.0+23.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xv94TkTM/versions/GwInrrcn/Controlling-forge-1.18.2-9.0%2B23.jar"
+hash-format = "sha512"
+hash = "d75275552be207f96752075091de514f7105179216aa64207ddc8cbda7b0b99a1b582c6c8c7ef93c3f7e4ba60e84235092b84dae715e3cfdb61be3be41eaa6a5"
+
+[update]
+[update.modrinth]
+mod-id = "xv94TkTM"
+version = "GwInrrcn"

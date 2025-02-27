@@ -325,6 +325,11 @@ hash = "8036b6395c91194b453dd99221066cd03c7d728b9c9bd861461f63fa582b1e79"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "c90e844d5bace1d0a7df90939b5ca99126108bdabc85b87108373981d061ee70"
+metafile = true
+
+[[files]]
 file = "mods/macaws-bridges-oh-the-biomes-youll-go.pw.toml"
 hash = "4da45e5e58da9cfd1152a0123a3dbd5313a592635f658204b95b424919e512fd"
 metafile = true

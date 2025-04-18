@@ -1,0 +1,13 @@
+name = "Mystical Customization"
+filename = "MysticalCustomization-1.18.2-3.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lNK9A4rh/versions/T3eNSVFj/MysticalCustomization-1.18.2-3.1.2.jar"
+hash-format = "sha512"
+hash = "dced19804e664e4042e0b793bfae71bb6103475f5da197d92b455e12fddcf92592053b4135d7b3803712c5a2538cad4cf9a62d98b580ff4c7bbb5ce8c16191b0"
+
+[update]
+[update.modrinth]
+mod-id = "lNK9A4rh"
+version = "T3eNSVFj"

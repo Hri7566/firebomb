@@ -1,0 +1,13 @@
+name = "TIS-VS"
+filename = "tisvs-1.20.1-forge-0.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Zn8O677y/versions/SuslXiKz/tisvs-1.20.1-forge-0.2.2.jar"
+hash-format = "sha512"
+hash = "44dd5754e9fdaee22ac71a59ae6831eb03585195e0eb0039cd13570c04afd2403dbf96b8532df1d2672b9a81d3b1df9cc88d86c53c29c81366e743cf34cd74cf"
+
+[update]
+[update.modrinth]
+mod-id = "Zn8O677y"
+version = "SuslXiKz"

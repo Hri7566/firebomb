@@ -1,13 +1,13 @@
 name = "Create Crafts & Additions"
-filename = "createaddition-1.20.1-1.3.1.jar"
+filename = "createaddition-1.20.1-1.2.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/kU1G12Nn/versions/SecVSw22/createaddition-1.20.1-1.3.1.jar"
+url = "https://cdn.modrinth.com/data/kU1G12Nn/versions/VTTLcYWM/createaddition-1.20.1-1.2.5.jar"
 hash-format = "sha512"
-hash = "d9fd62d5041670e3194848624672674b2ef23a88348f30968574803786da0a56b3d34a1ab7e542d6666cd3983d88fbedce08b2c56165a464fee7e3c383c07ad5"
+hash = "be1d03082b2f404c7ebe93f0ad3995c8a65053f86624ef4b1ee5d5b697f62e68672f93c7e4f9bd6a50de69661b72b073be69f2ac1d1331b7f043f78caaf982ba"
 
 [update]
 [update.modrinth]
 mod-id = "kU1G12Nn"
-version = "SecVSw22"
+version = "VTTLcYWM"

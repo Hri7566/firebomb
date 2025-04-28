@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/xYfyUTuc/versions/aUA5tZf1/tisadvanced-1.20.1-0.3.1.jar"
-hash-format = "sha512"
-hash = "546da37ced8376991d65df099b923460ba21b93986e5b5f137ae86b45096366537c2c10e2ee64708e33e08b3994f298aa3d77bccbce9d46a518c1aeb5769c926"
+hash-format = "sha256"
+hash = "961fec7c09601796de349f469be76faaa13fc6e08c0d73a86c253594fb71f00b"
 
 [update]
 [update.modrinth]

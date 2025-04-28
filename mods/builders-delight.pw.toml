@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/CAASGC7r/versions/o5hPmXN6/BuildersDelight-1.20.1-v.1.3.jar"
-hash-format = "sha512"
-hash = "1f2864674e4781ee73842f4e76b638ea9fca3646327ce23e963083298181fe3414a5f3a7c4669c6af2085a955065001c58d2e5979fc1579f6bb27801abc3a3fb"
+hash-format = "sha256"
+hash = "de45e0ed47536a2d08b79049f8223ad94a74bbad6edcd8da9f622686a598bcf4"
 
 [update]
 [update.modrinth]

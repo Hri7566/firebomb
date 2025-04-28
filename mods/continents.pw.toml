@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/bQ5TJA1E/versions/iKQVTCn6/Continents_1.21.x_v1.1.8.jar"
-hash-format = "sha512"
-hash = "48986c3af5c3508c008ad10d5050341820180de85a1b0f5ff4d71ce413e186079aeccc53a12a90fe19299fd29d14145a294291620c9823c1897b2bdec15449a8"
+hash-format = "sha256"
+hash = "e6026850e123ae32537c0f21f50b22ed6a5afec29327ec5e45e9f2fee44fcb88"
 
 [update]
 [update.modrinth]
